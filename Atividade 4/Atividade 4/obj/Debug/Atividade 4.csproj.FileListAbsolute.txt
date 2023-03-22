@@ -1,0 +1,11 @@
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\bin\Debug\Atividade 4.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\bin\Debug\Atividade 4.exe
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\bin\Debug\Atividade 4.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade_4.Form1.resources
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade_4.Properties.Resources.resources
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.GenerateResource.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade 4.exe
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 4\Atividade 4\obj\Debug\Atividade 4.pdb
