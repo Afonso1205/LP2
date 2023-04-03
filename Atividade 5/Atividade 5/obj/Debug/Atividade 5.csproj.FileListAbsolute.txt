@@ -1,0 +1,21 @@
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\bin\Debug\Atividade 5.exe.config
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\bin\Debug\Atividade 5.exe
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\bin\Debug\Atividade 5.pdb
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csprojAssemblyReference.cache
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\obj\Debug\Atividade_5.Form1.resources
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\obj\Debug\Atividade_5.Properties.Resources.resources
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.GenerateResource.cache
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.CoreCompileInputs.cache
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\obj\Debug\Atividade 5.exe
+C:\Users\0030482221021\source\repos\Atividade 5\Atividade 5\obj\Debug\Atividade 5.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\bin\Debug\Atividade 5.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\bin\Debug\Atividade 5.exe
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\bin\Debug\Atividade 5.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade_5.Form1.resources
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade_5.Properties.Resources.resources
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.GenerateResource.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade 5.exe
+C:\Users\afons\OneDrive\Área de Trabalho\Atividade 5\Atividade 5\obj\Debug\Atividade 5.pdb
