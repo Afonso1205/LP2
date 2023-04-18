@@ -1,0 +1,38 @@
+C:\Users\0030482221021\source\repos\PMenu\PMenu\bin\Debug\PMenu.exe.config
+C:\Users\0030482221021\source\repos\PMenu\PMenu\bin\Debug\PMenu.exe
+C:\Users\0030482221021\source\repos\PMenu\PMenu\bin\Debug\PMenu.pdb
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.csprojAssemblyReference.cache
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.Form1.resources
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.Properties.Resources.resources
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.csproj.GenerateResource.cache
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.csproj.CoreCompileInputs.cache
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.exe
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.pdb
+C:\Users\0030482221021\source\repos\PMenu\PMenu\obj\Debug\PMenu.frmExercicio2.resources
+C:\Users\0030482221021\Desktop\PMenu\PMenu\bin\Debug\PMenu.exe.config
+C:\Users\0030482221021\Desktop\PMenu\PMenu\bin\Debug\PMenu.exe
+C:\Users\0030482221021\Desktop\PMenu\PMenu\bin\Debug\PMenu.pdb
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.frmExercicio3.resources
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.frmExercicio4.resources
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.Form1.resources
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.frmExercicio2.resources
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.Properties.Resources.resources
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.csproj.GenerateResource.cache
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.csproj.CoreCompileInputs.cache
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.exe
+C:\Users\0030482221021\Desktop\PMenu\PMenu\obj\Debug\PMenu.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\bin\Debug\PMenu.exe.config
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\bin\Debug\PMenu.exe
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\bin\Debug\PMenu.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.frmExercicio3.resources
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.frmExercicio4.resources
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.Form1.resources
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.frmExercicio2.resources
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.Properties.Resources.resources
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.csproj.GenerateResource.cache
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.exe
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.pdb
+C:\Users\afons\OneDrive\Área de Trabalho\PMenu\PMenu\obj\Debug\PMenu.frmExercicio5.resources
